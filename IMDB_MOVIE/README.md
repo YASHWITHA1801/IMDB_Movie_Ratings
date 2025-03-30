@@ -92,6 +92,6 @@ In conclusion, this project provides valuable insights and a predictive model fo
 To get started with this project, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/214G1A32C1-VIJAYADURGA/IMDB-MOVIE-RATINGS.git
+git clone https://github.com/YASHWITHA1801/IMDB_Movie_Ratings.git
 cd IMDB-MOVIE-RATINGS
 ```
