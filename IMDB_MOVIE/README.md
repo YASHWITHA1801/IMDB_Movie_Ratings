@@ -93,5 +93,5 @@ To get started with this project, clone the repository using the following comma
 
 ```bash
 git clone https://github.com/YASHWITHA1801/IMDB_Movie_Ratings.git
-cd IMDB-MOVIE-RATINGS
+cd IMDB_Movie_Ratings
 ```
